@@ -1,0 +1,13 @@
+CU Off-Campus Demo
+COMS W4156 Advanced Software Engineering
+
+Group 7
+
+Team Members:
+Allen Song (zs2510), Yiwen Fang (yf2560), Leo Qian (yq2292)
+
+Youtube Video:
+https://youtu.be/KnufDZSuW6o
+
+Heroku Link:
+https://powerful-waters-30990.herokuapp.com/
